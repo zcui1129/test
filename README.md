@@ -1,6 +1,2 @@
 # test
-<<<<<<< Updated upstream
-123123
-=======
-123
->>>>>>> Stashed changes
+测试测试 checkout
